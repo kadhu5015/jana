@@ -105,7 +105,7 @@ body{
     width: 100%;
     height: 500px;
     transition: 2s;
-
+    z-index: 20;
 }
 .cardaparecer{
     transform: translateY(5000px);
@@ -167,3 +167,22 @@ body{
     }
 }
 
+
+
+.fa-heart {
+    color: rgb(236, 17, 17);
+    font-size: 25px;
+    position: absolute;
+    animation:  heartMove linear 1;
+    top: -10vh;
+    z-index: 0;
+}
+
+@keyframes heartMove {
+    0%{
+        transform: translateY(-10vh) ;
+    }
+    100%{
+        transform: translateY(110vh) ;
+    }
+}
