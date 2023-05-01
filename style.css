@@ -78,14 +78,14 @@ body{
 }
 
 .card .text{
-    font-family: 'Brush Script MT', cursive;
+    font-family: 'Open Sans', sans-serif;;
     font-size: 28px;
     text-align: center;
     line-height: 25px;
     color: #003049;
 }
 .card2{
-    font-family: 'Brush Script MT', cursive;
+    font-family:'Open Sans', sans-serif;;
     font-size: 14px;
     text-align: justify;
     
