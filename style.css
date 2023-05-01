@@ -79,14 +79,14 @@ body{
 
 .card .text{
     font-family: 'Open Sans', sans-serif;;
-    font-size: 18px;
+    font-size: 19px;
     text-align: center;
     line-height: 25px;
     color: #003049;
 }
 .card2{
     font-family:'Open Sans', sans-serif;;
-    font-size: 12px;
+    font-size: 13px;
     text-align: justify;
     
     cursor: pointer;
